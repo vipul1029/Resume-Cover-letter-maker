@@ -4,7 +4,7 @@ import { AuthProvider } from './contexts/AuthContext.jsx';
 import { motion } from 'framer-motion';
 import Navigation from './components/layout/Navigation';
 import Login from './components/auth/Login';
-import SignUp from './components/auth/SignUp';
+import SignUp from './components/auth/Signup';
 import Dashboard from './components/dashboard/Dashboard';
 import ResumeBuilder from './components/resume/ResumeBuilder';
 import CoverLetterBuilder from './components/coverLetter/CoverLetterBuilder';
